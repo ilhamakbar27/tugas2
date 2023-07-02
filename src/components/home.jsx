@@ -18,13 +18,13 @@ const home = () => {
             user-centric digital products & interactive experiences.
           </p>
           <button
-            className="px-10 py-3 w-[45%] max-md:w-[60%] hover:bg-slate-300    text-white
+            className="px-10 py-3 w-[45%] max-md:w-[70%] hover:bg-slate-300    text-white
            rounded-sm flex justify-center items-center bg-[#9D9D9D]"
           >
             <span>
               <Icon width={20} height={20} icon="ic:outline-email" />
             </span>
-            hi@yourname.com
+            milham.ak10@gmail.com
           </button>
         </div>
         <div className="w-[35%]   md:block hidden">

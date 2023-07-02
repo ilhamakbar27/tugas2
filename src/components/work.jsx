@@ -8,12 +8,12 @@ import { Icon } from "@iconify/react";
 
 const work = () => {
   return (
-    <section  className="bg-black">
+    <section id="work" className="bg-black">
          <div  className="text-md flex px-[10vw] font-thin gap-4 tracking-widest text-slate-300 py-12">
           <Icon width={20} height={20} icon="solar:arrow-down-linear" />{" "}
            WORK
         </div>
-      <div id="work">
+      <div >
         <img src={foto15} />
       </div>
       

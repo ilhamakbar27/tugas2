@@ -10,7 +10,7 @@ const contact = () => {
         for freelance work
       </p>
       <button
-        className="px-10 py-3 w-[30%] max-md:w-[60%] hover:bg-slate-300    text-white
+        className="px-10 py-3 w-[30%] max-md:w-[70%] hover:bg-slate-300    text-white
            rounded-sm flex justify-center items-center bg-[#9D9D9D]"
       >
         <span>
